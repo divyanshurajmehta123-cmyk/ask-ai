@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "Next-gen AI assistant featuring intelligent Chat, Image & 4K Video Generation, Voice interactions, Code assistant, Translator, Document analysis, and Premium features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
